@@ -1,0 +1,26 @@
+head {
+    text-align: center;
+}
+body{
+    background-color: #86aedf;
+}
+img { 
+ width: 90px;
+     height: 90px;
+    float: left;
+    }
+
+#idcard {
+    background-image: url(final1pic.svg);
+    border: 5px;
+    border-style: solid;
+    padding: 80px;
+    width: 30%;
+    border-color:  black;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px
+}
+#boxes { 
+text-align: center;
+}
