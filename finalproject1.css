@@ -4,23 +4,24 @@ head {
 body{
     background-color: #86aedf;
 }
-img { 
- width: 90px;
-     height: 90px;
-    float: left;
-    }
+    button { padding: 5px;
 
+    }
+#image1 { background-image: url(final1pic.svg);
+     width: 90px;
+        height: 90px;
+     }
+     #Fullname {
+         text-align: center;
+     }
 #idcard {
-    background-image: url(final1pic.svg);
-    border: 5px;
-    border-style: solid;
-    padding: 80px;
-    width: 30%;
-    border-color:  black;
-    text-align: center;
-    margin: auto;
-    border-radius: 10px
-}
+background-color: salmon;
+    border: 5px solid black;
+height: 14em;
+    width: 25em;
+    border-radius: 10px;
+    text-align: left;
+    }
 #boxes { 
 text-align: center;
 }
